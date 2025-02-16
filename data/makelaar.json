@@ -1,0 +1,73 @@
+[
+    {
+      "id": 101,
+      "name": "Barcelona Realty",
+      "experience": 10,
+      "active": true,
+      "logo_url": "https://example.com/barcelona_realty_logo.jpg"
+    },
+    {
+      "id": 102,
+      "name": "London Estates",
+      "experience": 15,
+      "active": true,
+      "logo_url": "https://example.com/london_estates_logo.jpg"
+    },
+    {
+      "id": 103,
+      "name": "Rome Homes",
+      "experience": 12,
+      "active": true,
+      "logo_url": "https://example.com/rome_homes_logo.jpg"
+    },
+    {
+      "id": 104,
+      "name": "Amsterdam Living",
+      "experience": 8,
+      "active": true,
+      "logo_url": "https://example.com/amsterdam_living_logo.jpg"
+    },
+    {
+      "id": 105,
+      "name": "Brussels Realty",
+      "experience": 14,
+      "active": true,
+      "logo_url": "https://example.com/brussels_realty_logo.jpg"
+    },
+    {
+      "id": 106,
+      "name": "Madrid Homes",
+      "experience": 9,
+      "active": true,
+      "logo_url": "https://example.com/madrid_homes_logo.jpg"
+    },
+    {
+      "id": 107,
+      "name": "Lisbon Realty",
+      "experience": 11,
+      "active": true,
+      "logo_url": "https://example.com/lisbon_realty_logo.jpg"
+    },
+    {
+      "id": 108,
+      "name": "Paris Residences",
+      "experience": 13,
+      "active": true,
+      "logo_url": "https://example.com/paris_residences_logo.jpg"
+    },
+    {
+      "id": 109,
+      "name": "Berlin Properties",
+      "experience": 7,
+      "active": true,
+      "logo_url": "https://example.com/berlin_properties_logo.jpg"
+    },
+    {
+      "id": 110,
+      "name": "Athens Luxury Homes",
+      "experience": 16,
+      "active": true,
+      "logo_url": "https://example.com/athens_luxury_logo.jpg"
+    }
+  ]
+  

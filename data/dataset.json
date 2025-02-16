@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Modern Apartment in Barcelona",
+    "description": "A stunning modern apartment with a view of the Sagrada Familia.",
+    "price": 450000,
+    "available": true,
+    "year_built": "2018-06-15",
+    "image_url": "https://example.com/barcelona_apartment.jpg",
+    "type": "Apartment",
+    "amenities": ["Swimming pool", "Rooftop terrace", "Elevator"],
+    "real_estate_agent": {
+      "id": 101,
+      "name": "Barcelona Realty",
+      "experience": 10,
+      "active": true,
+      "logo_url": "https://example.com/barcelona_realty_logo.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Classic Home in London",
+    "description": "A charming Victorian house with a large garden in the heart of London.",
+    "price": 950000,
+    "available": false,
+    "year_built": "1900-04-10",
+    "image_url": "https://example.com/london_house.jpg",
+    "type": "House",
+    "amenities": ["Garden", "Basement", "Fireplace"],
+    "real_estate_agent": {
+      "id": 102,
+      "name": "London Estates",
+      "experience": 15,
+      "active": true,
+      "logo_url": "https://example.com/london_estates_logo.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Historic Apartment in Rome",
+    "description": "An elegant apartment with original frescoes in the center of Rome.",
+    "price": 600000,
+    "available": true,
+    "year_built": "1800-09-25",
+    "image_url": "https://example.com/rome_apartment.jpg",
+    "type": "Apartment",
+    "amenities": ["Balcony", "High ceilings", "Marble flooring"],
+    "real_estate_agent": {
+      "id": 103,
+      "name": "Rome Homes",
+      "experience": 12,
+      "active": true,
+      "logo_url": "https://example.com/rome_homes_logo.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Canal House in Amsterdam",
+    "description": "Unique canal-side home with authentic details and modern comfort.",
+    "price": 1200000,
+    "available": true,
+    "year_built": "1750-03-20",
+    "image_url": "https://example.com/amsterdam_gracht.jpg",
+    "type": "House",
+    "amenities": ["Canal view", "Original beams", "Garage"],
+    "real_estate_agent": {
+      "id": 104,
+      "name": "Amsterdam Living",
+      "experience": 8,
+      "active": true,
+      "logo_url": "https://example.com/amsterdam_living_logo.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Luxury Penthouse in Brussels",
+    "description": "An exclusive penthouse with panoramic views over Brussels.",
+    "price": 850000,
+    "available": false,
+    "year_built": "2020-07-05",
+    "image_url": "https://example.com/brussels_penthouse.jpg",
+    "type": "Penthouse",
+    "amenities": ["Rooftop terrace", "Sauna", "Private elevator"],
+    "real_estate_agent": {
+      "id": 105,
+      "name": "Brussels Realty",
+      "experience": 14,
+      "active": true,
+      "logo_url": "https://example.com/brussels_realty_logo.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Family Home in Madrid",
+    "description": "A spacious family home in a quiet neighborhood with a private swimming pool.",
+    "price": 670000,
+    "available": true,
+    "year_built": "2005-11-30",
+    "image_url": "https://example.com/madrid_house.jpg",
+    "type": "House",
+    "amenities": ["Swimming pool", "Garage", "Garden"],
+    "real_estate_agent": {
+      "id": 106,
+      "name": "Madrid Homes",
+      "experience": 9,
+      "active": true,
+      "logo_url": "https://example.com/madrid_homes_logo.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Apartment in Lisbon",
+    "description": "A cozy apartment with a view of the Tagus River.",
+    "price": 420000,
+    "available": true,
+    "year_built": "1995-05-22",
+    "image_url": "https://example.com/lisbon_apartment.jpg",
+    "type": "Apartment",
+    "amenities": ["Balcony", "Parking garage", "Air conditioning"],
+    "real_estate_agent": {
+      "id": 107,
+      "name": "Lisbon Realty",
+      "experience": 11,
+      "active": true,
+      "logo_url": "https://example.com/lisbon_realty_logo.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Studio in Paris",
+    "description": "A stylish studio in the center of Paris, ideal for expats.",
+    "price": 380000,
+    "available": false,
+    "year_built": "2010-08-15",
+    "image_url": "https://example.com/paris_studio.jpg",
+    "type": "Studio",
+    "amenities": ["Central location", "Furnished", "Open kitchen"],
+    "real_estate_agent": {
+      "id": 108,
+      "name": "Paris Residences",
+      "experience": 13,
+      "active": true,
+      "logo_url": "https://example.com/paris_residences_logo.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Loft in Berlin",
+    "description": "An industrial loft with plenty of natural light and a modern interior.",
+    "price": 720000,
+    "available": true,
+    "year_built": "2008-12-01",
+    "image_url": "https://example.com/berlin_loft.jpg",
+    "type": "Loft",
+    "amenities": ["High ceiling", "Open kitchen", "Large windows"],
+    "real_estate_agent": {
+      "id": 109,
+      "name": "Berlin Properties",
+      "experience": 7,
+      "active": true,
+      "logo_url": "https://example.com/berlin_properties_logo.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Villa in Athens",
+    "description": "A luxurious villa with a view of the Acropolis and a large swimming pool.",
+    "price": 1300000,
+    "available": true,
+    "year_built": "2015-06-18",
+    "image_url": "https://example.com/athens_villa.jpg",
+    "type": "Villa",
+    "amenities": ["Private pool", "Sea view", "Garden"],
+    "real_estate_agent": {
+      "id": 110,
+      "name": "Athens Luxury Homes",
+      "experience": 16,
+      "active": true,
+      "logo_url": "https://example.com/athens_luxury_logo.jpg"
+    }
+  }
+]
