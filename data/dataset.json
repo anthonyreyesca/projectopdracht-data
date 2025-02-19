@@ -6,7 +6,7 @@
     "price": 450000,
     "available": true,
     "year_built": "2018-06-15",
-    "image_url": "https://example.com/barcelona_apartment.jpg",
+    "image_url": "/workspaces/projectopdracht-anthonyreyesca/projectopdracht-anthonyreyes/images/barcelona.jpeg",
     "type": "Apartment",
     "amenities": ["Swimming pool", "Rooftop terrace", "Elevator"],
     "real_estate_agent": {
@@ -24,7 +24,7 @@
     "price": 950000,
     "available": false,
     "year_built": "1900-04-10",
-    "image_url": "https://example.com/london_house.jpg",
+    "image_url": "/workspaces/projectopdracht-anthonyreyesca/projectopdracht-anthonyreyes/images/londen.jpeg",
     "type": "House",
     "amenities": ["Garden", "Basement", "Fireplace"],
     "real_estate_agent": {
@@ -42,7 +42,7 @@
     "price": 600000,
     "available": true,
     "year_built": "1800-09-25",
-    "image_url": "https://example.com/rome_apartment.jpg",
+    "image_url": "/workspaces/projectopdracht-anthonyreyesca/projectopdracht-anthonyreyes/images/rome.jpeg",
     "type": "Apartment",
     "amenities": ["Balcony", "High ceilings", "Marble flooring"],
     "real_estate_agent": {
@@ -60,7 +60,7 @@
     "price": 1200000,
     "available": true,
     "year_built": "1750-03-20",
-    "image_url": "https://example.com/amsterdam_gracht.jpg",
+    "image_url": "/workspaces/projectopdracht-anthonyreyesca/projectopdracht-anthonyreyes/images/amsterdam.jpeg",
     "type": "House",
     "amenities": ["Canal view", "Original beams", "Garage"],
     "real_estate_agent": {
@@ -78,7 +78,7 @@
     "price": 850000,
     "available": false,
     "year_built": "2020-07-05",
-    "image_url": "https://example.com/brussels_penthouse.jpg",
+    "image_url": "/workspaces/projectopdracht-anthonyreyesca/projectopdracht-anthonyreyes/images/brussel.jpeg",
     "type": "Penthouse",
     "amenities": ["Rooftop terrace", "Sauna", "Private elevator"],
     "real_estate_agent": {
@@ -96,7 +96,7 @@
     "price": 670000,
     "available": true,
     "year_built": "2005-11-30",
-    "image_url": "https://example.com/madrid_house.jpg",
+    "image_url": "/workspaces/projectopdracht-anthonyreyesca/projectopdracht-anthonyreyes/images/madrid.jpeg",
     "type": "House",
     "amenities": ["Swimming pool", "Garage", "Garden"],
     "real_estate_agent": {
@@ -114,7 +114,7 @@
     "price": 420000,
     "available": true,
     "year_built": "1995-05-22",
-    "image_url": "https://example.com/lisbon_apartment.jpg",
+    "image_url": "/workspaces/projectopdracht-anthonyreyesca/projectopdracht-anthonyreyes/images/lissabon.jpeg",
     "type": "Apartment",
     "amenities": ["Balcony", "Parking garage", "Air conditioning"],
     "real_estate_agent": {
@@ -132,7 +132,7 @@
     "price": 380000,
     "available": false,
     "year_built": "2010-08-15",
-    "image_url": "https://example.com/paris_studio.jpg",
+    "image_url": "/workspaces/projectopdracht-anthonyreyesca/projectopdracht-anthonyreyes/images/parijs.jpeg",
     "type": "Studio",
     "amenities": ["Central location", "Furnished", "Open kitchen"],
     "real_estate_agent": {
@@ -150,7 +150,7 @@
     "price": 720000,
     "available": true,
     "year_built": "2008-12-01",
-    "image_url": "https://example.com/berlin_loft.jpg",
+    "image_url": "/workspaces/projectopdracht-anthonyreyesca/projectopdracht-anthonyreyes/images/berlin.jpeg",
     "type": "Loft",
     "amenities": ["High ceiling", "Open kitchen", "Large windows"],
     "real_estate_agent": {
@@ -168,7 +168,7 @@
     "price": 1300000,
     "available": true,
     "year_built": "2015-06-18",
-    "image_url": "https://example.com/athens_villa.jpg",
+    "image_url": "/workspaces/projectopdracht-anthonyreyesca/projectopdracht-anthonyreyes/images/athene.jpeg",
     "type": "Villa",
     "amenities": ["Private pool", "Sea view", "Garden"],
     "real_estate_agent": {
