@@ -6,7 +6,7 @@
     "price": 450000,
     "available": true,
     "year_built": "2018-06-15",
-    "image_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/amsterdam.jpeg?raw=true",
+    "image_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/barcelona.jpeg?raw=true",
     "type": "Apartment",
     "amenities": ["Swimming pool", "Rooftop terrace", "Elevator"],
     "real_estate_agent": {
