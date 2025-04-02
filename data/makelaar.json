@@ -1,73 +1,82 @@
 [
-    {
-      "id": 101,
-      "name": "Barcelona Realty",
-      "experience": 10,
-      "active": true,
-      "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/barcelona_realty.jpg?raw=true"
-    },
-    {
-      "id": 102,
-      "name": "London Estates",
-      "experience": 15,
-      "active": true,
-      "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/london_estates.jpg?raw=true"
-    },
-    {
-      "id": 103,
-      "name": "Rome Homes",
-      "experience": 12,
-      "active": true,
-      "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/rome_homes.jpg?raw=true"
-    },
-    {
-      "id": 104,
-      "name": "Amsterdam Living",
-      "experience": 8,
-      "active": true,
-      "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/amsterdam_living.jpg?raw=true"
-    },
-    {
-      "id": 105,
-      "name": "Brussels Realty",
-      "experience": 14,
-      "active": true,
-      "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/brussels_realty.jpg?raw=true"
-    },
-    {
-      "id": 106,
-      "name": "Madrid Homes",
-      "experience": 9,
-      "active": true,
-      "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/madrid_homes.jpg?raw=true"
-    },
-    {
-      "id": 107,
-      "name": "Lisbon Realty",
-      "experience": 11,
-      "active": true,
-      "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/lisbon_realty.jpg?raw=true"
-    },
-    {
-      "id": 108,
-      "name": "Paris Residences",
-      "experience": 13,
-      "active": true,
-      "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/paris_residence.jpg?raw=true"
-    },
-    {
-      "id": 109,
-      "name": "Berlin Properties",
-      "experience": 7,
-      "active": true,
-      "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/berlin_properties.jpg?raw=true"
-    },
-    {
-      "id": 110,
-      "name": "Athens Luxury Homes",
-      "experience": 16,
-      "active": true,
-      "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/athens_luxury_homes.jpg?raw=true"
-    }
-  ]
-  
+  {
+    "id": 101,
+    "name": "Barcelona Vastgoed",
+    "experience": 10,
+    "active": true,
+    "description": "Met 10 jaar ervaring biedt Barcelona Vastgoed deskundige begeleiding bij aan- en verkoop.",
+    "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/barcelona_realty.jpg?raw=true"
+  },
+  {
+    "id": 102,
+    "name": "Londen Vastgoed",
+    "experience": 15,
+    "active": true,
+    "description": "Londen Vastgoed heeft 15 jaar expertise in de vastgoedmarkt en biedt professioneel advies.",
+    "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/london_estates.jpg?raw=true"
+  },
+  {
+    "id": 103,
+    "name": "Rome Woningen",
+    "experience": 12,
+    "active": true,
+    "description": "Rome Woningen helpt klanten al 12 jaar met hun vastgoedbehoeften in de regio.",
+    "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/rome_homes.jpg?raw=true"
+  },
+  {
+    "id": 104,
+    "name": "Amsterdam Wonen",
+    "experience": 8,
+    "active": true,
+    "description": "Amsterdam Wonen biedt 8 jaar ervaring in de huizenmarkt van de hoofdstad.",
+    "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/amsterdam_living.jpg?raw=true"
+  },
+  {
+    "id": 105,
+    "name": "Brussel Vastgoed",
+    "experience": 14,
+    "active": true,
+    "description": "Met 14 jaar ervaring is Brussel Vastgoed een betrouwbare partner in de markt.",
+    "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/brussels_realty.jpg?raw=true"
+  },
+  {
+    "id": 106,
+    "name": "Madrid Woningen",
+    "experience": 9,
+    "active": true,
+    "description": "Madrid Woningen helpt klanten al 9 jaar met het vinden van hun ideale woning.",
+    "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/madrid_homes.jpg?raw=true"
+  },
+  {
+    "id": 107,
+    "name": "Lissabon Vastgoed",
+    "experience": 11,
+    "active": true,
+    "description": "Lissabon Vastgoed heeft 11 jaar ervaring in het begeleiden van vastgoedtransacties.",
+    "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/lisbon_realty.jpg?raw=true"
+  },
+  {
+    "id": 108,
+    "name": "Parijs Residenties",
+    "experience": 13,
+    "active": true,
+    "description": "Parijs Residenties staat al 13 jaar garant voor hoogwaardige vastgoedoplossingen.",
+    "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/paris_residence.jpg?raw=true"
+  },
+  {
+    "id": 109,
+    "name": "Berlijn Vastgoed",
+    "experience": 7,
+    "active": true,
+    "description": "Berlijn Vastgoed is al 7 jaar actief en biedt deskundige begeleiding bij vastgoedzaken.",
+    "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/berlin_properties.jpg?raw=true"
+  },
+  {
+    "id": 110,
+    "name": "Athene Luxe Woningen",
+    "experience": 16,
+    "active": true,
+    "description": "Met 16 jaar ervaring is Athene Luxe Woningen dé specialist in exclusief vastgoed.",
+    "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/athens_luxury_homes.jpg?raw=true"
+  }
+]
