@@ -6,7 +6,7 @@
     "price": 450000,
     "available": true,
     "year_built": "2018-06-15",
-    "image_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/barcelona.jpeg?raw=true",
+    "image_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/barcelona.jpeg",
     "type": "Appartement",
     "amenities": ["Zwembad", "Dakterras", "Lift"],
     "real_estate_agent": {
@@ -15,7 +15,7 @@
       "experience": 10,
       "active": true,
       "description": "Met 10 jaar ervaring biedt Barcelona Vastgoed deskundige begeleiding bij aan- en verkoop.",
-      "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/barcelona_realty.jpg?raw=true"
+      "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/logo's/barcelona_realty.jpg"
     }
   },
   {
@@ -25,7 +25,7 @@
     "price": 950000,
     "available": false,
     "year_built": "1900-04-10",
-    "image_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/londen.jpeg?raw=true",
+    "image_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/londen.jpeg",
     "type": "Huis",
     "amenities": ["Tuin", "Kelder", "Open haard"],
     "real_estate_agent": {
@@ -34,7 +34,7 @@
       "experience": 15,
       "active": true,
       "description": "Londen Vastgoed heeft 15 jaar expertise in de vastgoedmarkt en biedt professioneel advies.",
-      "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/london_estates.jpg?raw=true"
+      "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/logo's/london_estates.jpg"
     }
   },
   {
@@ -44,16 +44,16 @@
     "price": 600000,
     "available": true,
     "year_built": "1800-09-25",
-    "image_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/rome.jpeg?raw=true",
+    "image_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/rome.jpeg",
     "type": "Appartement",
     "amenities": ["Balkon", "Hoge plafonds", "Marmeren vloeren"],
     "real_estate_agent": {
       "id": 103,
-      "name": "Rome Huizen",
+      "name": "Rome Woningen",
       "experience": 12,
       "active": true,
-      "description": "Rome Huizen biedt deskundige begeleiding in het kopen en verkopen van onroerend goed in Rome.",
-      "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/rome_homes.jpg?raw=true"
+      "description": "Rome Woningen helpt klanten al 12 jaar met hun vastgoedbehoeften in de regio.",
+      "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/logo's/rome_homes.jpg"
     }
   },
   {
@@ -63,7 +63,7 @@
     "price": 1200000,
     "available": true,
     "year_built": "1750-03-20",
-    "image_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/amsterdam.jpeg?raw=true",
+    "image_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/amsterdam.jpeg",
     "type": "Huis",
     "amenities": ["Grachtenzicht", "Originele balken", "Garage"],
     "real_estate_agent": {
@@ -71,8 +71,8 @@
       "name": "Amsterdam Wonen",
       "experience": 8,
       "active": true,
-      "description": "Met 8 jaar ervaring helpt Amsterdam Wonen bij het vinden van de ideale woning in Amsterdam.",
-      "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/amsterdam_living.jpg?raw=true"
+      "description": "Amsterdam Wonen biedt 8 jaar ervaring in de huizenmarkt van de hoofdstad.",
+      "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/logo's/amsterdam_living.jpg"
     }
   },
   {
@@ -82,7 +82,7 @@
     "price": 850000,
     "available": false,
     "year_built": "2020-07-05",
-    "image_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/brussel.jpeg?raw=true",
+    "image_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/brussel.jpeg",
     "type": "Penthouse",
     "amenities": ["Dakterras", "Sauna", "Privé lift"],
     "real_estate_agent": {
@@ -90,8 +90,8 @@
       "name": "Brussel Vastgoed",
       "experience": 14,
       "active": true,
-      "description": "Brussel Vastgoed biedt deskundige begeleiding bij het vinden van luxe onroerend goed in Brussel.",
-      "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/brussels_realty.jpg?raw=true"
+      "description": "Met 14 jaar ervaring is Brussel Vastgoed een betrouwbare partner in de markt.",
+      "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/logo's/brussels_realty.jpg"
     }
   },
   {
@@ -101,16 +101,16 @@
     "price": 670000,
     "available": true,
     "year_built": "2005-11-30",
-    "image_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/madrid.jpeg?raw=true",
+    "image_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/madrid.jpeg",
     "type": "Huis",
     "amenities": ["Zwembad", "Garage", "Tuin"],
     "real_estate_agent": {
       "id": 106,
-      "name": "Madrid Huizen",
+      "name": "Madrid Woningen",
       "experience": 9,
       "active": true,
-      "description": "Madrid Huizen biedt 9 jaar ervaring in de vastgoedmarkt en helpt bij het vinden van de perfecte woning.",
-      "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/madrid_homes.jpg?raw=true"
+      "description": "Madrid Woningen helpt klanten al 9 jaar met het vinden van hun ideale woning.",
+      "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/logo's/madrid_homes.jpg"
     }
   },
   {
@@ -120,7 +120,7 @@
     "price": 420000,
     "available": true,
     "year_built": "1995-05-22",
-    "image_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/lissabon.jpeg?raw=true",
+    "image_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/lissabon.jpeg",
     "type": "Appartement",
     "amenities": ["Balkon", "Parkeergarage", "Airconditioning"],
     "real_estate_agent": {
@@ -128,8 +128,8 @@
       "name": "Lissabon Vastgoed",
       "experience": 11,
       "active": true,
-      "description": "Lissabon Vastgoed heeft 11 jaar ervaring en biedt advies voor zowel kopers als verkopers in Lissabon.",
-      "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/lisbon_realty.jpg?raw=true"
+      "description": "Lissabon Vastgoed heeft 11 jaar ervaring in het begeleiden van vastgoedtransacties.",
+      "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/logo's/lisbon_realty.jpg"
     }
   },
   {
@@ -139,16 +139,16 @@
     "price": 380000,
     "available": false,
     "year_built": "2010-08-15",
-    "image_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/parijs.jpeg?raw=true",
+    "image_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/parijs.jpeg",
     "type": "Studio",
     "amenities": ["Centraal gelegen", "Gemeubileerd", "Open keuken"],
     "real_estate_agent": {
       "id": 108,
-      "name": "Parijs Woningen",
+      "name": "Parijs Residenties",
       "experience": 13,
       "active": true,
-      "description": "Parijs Woningen biedt professioneel advies bij het kopen en verkopen van onroerend goed in Parijs.",
-      "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/paris_residence.jpg?raw=true"
+      "description": "Parijs Residenties staat al 13 jaar garant voor hoogwaardige vastgoedoplossingen.",
+      "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/logo's/paris_residence.jpg"
     }
   },
   {
@@ -158,7 +158,7 @@
     "price": 720000,
     "available": true,
     "year_built": "2008-12-01",
-    "image_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/berlin.jpeg?raw=true",
+    "image_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/berlin.jpeg",
     "type": "Loft",
     "amenities": ["Hoge plafonds", "Open keuken", "Grote ramen"],
     "real_estate_agent": {
@@ -166,8 +166,8 @@
       "name": "Berlijn Vastgoed",
       "experience": 7,
       "active": true,
-      "description": "Berlijn Vastgoed biedt begeleiding bij het kopen van moderne lofts en appartementen in Berlijn.",
-      "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/berlin_properties.jpg?raw=true"
+      "description": "Berlijn Vastgoed is al 7 jaar actief en biedt deskundige begeleiding bij vastgoedzaken.",
+      "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/logo's/berlin_properties.jpg"
     }
   },
   {
@@ -177,7 +177,7 @@
     "price": 1300000,
     "available": true,
     "year_built": "2015-06-18",
-    "image_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/athene.jpeg?raw=true",
+    "image_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/athene.jpeg",
     "type": "Villa",
     "amenities": ["Privé zwembad", "Zeezicht", "Tuin"],
     "real_estate_agent": {
@@ -185,8 +185,8 @@
       "name": "Athene Luxe Woningen",
       "experience": 16,
       "active": true,
-      "description": "Athene Luxe Woningen biedt luxe woningen in de regio Athene, met een focus op uitzonderlijk comfort.",
-      "logo_url": "https://github.com/anthonyreyesca/projectopdracht-data/blob/main/images/logo's/athens_luxury_homes.jpg?raw=true"
+      "description": "Met 16 jaar ervaring is Athene Luxe Woningen dé specialist in exclusief vastgoed.",
+      "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/logo's/athens_luxury_homes.jpg"
     }
   }
 ]
