@@ -5,7 +5,7 @@
     "experience": 10,
     "active": true,
     "description": "Met 10 jaar ervaring biedt Barcelona Vastgoed deskundige begeleiding bij aan- en verkoop.",
-    "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/barcelona.jpeg"
+    "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/logo's/barcelona_realty.jpg"
   },
   {
     "id": 102,
@@ -13,7 +13,7 @@
     "experience": 15,
     "active": true,
     "description": "Londen Vastgoed heeft 15 jaar expertise in de vastgoedmarkt en biedt professioneel advies.",
-    "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/londen.jpeg"
+    "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/logo's/london_estates.jpg"
   },
   {
     "id": 103,
@@ -21,7 +21,7 @@
     "experience": 12,
     "active": true,
     "description": "Rome Woningen helpt klanten al 12 jaar met hun vastgoedbehoeften in de regio.",
-    "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/rome.jpeg"
+    "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/logo's/rome_homes.jpg"
   },
   {
     "id": 104,
@@ -29,7 +29,7 @@
     "experience": 8,
     "active": true,
     "description": "Amsterdam Wonen biedt 8 jaar ervaring in de huizenmarkt van de hoofdstad.",
-    "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/amsterdam.jpeg"
+    "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/logo's/amsterdam_living.jpg"
   },
   {
     "id": 105,
@@ -37,7 +37,7 @@
     "experience": 14,
     "active": true,
     "description": "Met 14 jaar ervaring is Brussel Vastgoed een betrouwbare partner in de markt.",
-    "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/brussel.jpeg"
+    "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/logo's/brussels_realty.jpg"
   },
   {
     "id": 106,
@@ -45,7 +45,7 @@
     "experience": 9,
     "active": true,
     "description": "Madrid Woningen helpt klanten al 9 jaar met het vinden van hun ideale woning.",
-    "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/madrid.jpeg"
+    "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/logo's/madrid_homes.jpg"
   },
   {
     "id": 107,
@@ -53,7 +53,7 @@
     "experience": 11,
     "active": true,
     "description": "Lissabon Vastgoed heeft 11 jaar ervaring in het begeleiden van vastgoedtransacties.",
-    "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/lissabon.jpeg"
+    "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/logo's/lisbon_realty.jpg"
   },
   {
     "id": 108,
@@ -61,7 +61,7 @@
     "experience": 13,
     "active": true,
     "description": "Parijs Residenties staat al 13 jaar garant voor hoogwaardige vastgoedoplossingen.",
-    "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/parijs.jpeg"
+    "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/logo's/paris_residence.jpg"
   },
   {
     "id": 109,
@@ -69,7 +69,7 @@
     "experience": 7,
     "active": true,
     "description": "Berlijn Vastgoed is al 7 jaar actief en biedt deskundige begeleiding bij vastgoedzaken.",
-    "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/berlijn.jpeg"
+    "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/logo's/berlin_properties.jpg"
   },
   {
     "id": 110,
@@ -77,6 +77,6 @@
     "experience": 16,
     "active": true,
     "description": "Met 16 jaar ervaring is Athene Luxe Woningen dé specialist in exclusief vastgoed.",
-    "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/athene.jpeg"
+    "logo_url": "https://raw.githubusercontent.com/anthonyreyesca/projectopdracht-data/refs/heads/main/images/logo's/athens_luxury_homes.jpg"
   }
 ]
